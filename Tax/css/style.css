@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+bod{
+	background: #FFF url(img/geometry2.png) repeat;
+	font-family: "orange juice";
+}
+
+h1	{
+	text-align: center;	
+}
+
+#calculators{
+	margin-left: 0%;
+	margin-top: 0%;
+	margin-right: 0%;
+	margin-bottom: 0%;
+	padding-left: 0px;
+	width: 100%;
+}
+
+p{
+	font-size:20px;
+	text-align:center;
+}
+
+button{
+	margin-left: 20px 
+	border-radius: 5px;
+	color: #FF0000;
+}
+
